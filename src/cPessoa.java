@@ -1,5 +1,0 @@
-/*
-
-	Rafael Gomides
-
-*/
