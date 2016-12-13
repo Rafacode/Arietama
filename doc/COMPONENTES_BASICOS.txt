@@ -1,0 +1,15 @@
+Sistemas de modulo
+
+Arietama (Sistema Client)
+
+Modulo principal (gerencia todas as outras extensões)
+Modulo Financeiro (gerencia transações financeiras de forma geral)
+Modulo Comercial (gerencia vendas e controle basico de estoque)
+Modulo Gestao de estoque (gerencia E/S do estoque)
+Modulo Gestao de equipe (gerencia equipe)
+Modulo de impressao (gerencia impressão)
+Modulo de Relatório (gerencia relatórios)
+
+
+Arietama Server (sistema Servidor)
+
