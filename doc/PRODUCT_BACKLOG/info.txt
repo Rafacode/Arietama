@@ -1,0 +1,9 @@
+O que é?
+
+É basicamente uma lista com requisitos e suas prioridades definidas pelo Product Owner. No product backlog são definidas 
+as funcionalidades a serem entregues ao cliente, este documento pode ser alterado a qualquer momento, está é outra característica 
+importante do SCRUM, neste processo a equipe tem que ter ciência da natureza mutável do software, ou seja, as necessidades dos 
+clientes podem e muito provavelmente vão mudar a qualquer momento e um processo de desenvolvimento ágil tem de ser flexível neste 
+ponto. Quando se tem o Product Backlog pronto pode-se partir para a próxima etapa o Sprint Backlog.
+
+Fonte: http://www.devmedia.com.br/entendendo-o-scrum/24583
