@@ -1,0 +1,15 @@
+O que é?
+
+É uma reunião diária realizada a cada dia de um sprint, está reunião tem um conjunto de regras bem definido:
+
+  - A reunião começa precisamente no horário marcado.
+  - Todos são bem-vindos, mas apenas "poucos" podem falar.
+  - O encontro tem duração determinada (Time-Box) e dura 15 minutos.
+  - A reunião deve acontecer no mesmo local e mesma hora todos os dias
+  - Durante a reunião, cada membro da equipe responde a três perguntas:
+    - O que você tem feito desde ontem?
+    - O que você está planejando fazer hoje?
+    - Você tem algum problema impedindo você de realizar seu objetivo?
+Uma das vantagens das reuniões curtas é que evitam o cansaço causado por reuniões delongadas e que muitas vezes acabam 
+sendo pouco produtivas, também é importante destacar que desta forma também se garante que todos os membros da equipe estarão 
+a par de cada progresso feito durante o projeto.
