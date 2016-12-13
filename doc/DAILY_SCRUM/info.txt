@@ -13,3 +13,6 @@ O que é?
 Uma das vantagens das reuniões curtas é que evitam o cansaço causado por reuniões delongadas e que muitas vezes acabam 
 sendo pouco produtivas, também é importante destacar que desta forma também se garante que todos os membros da equipe estarão 
 a par de cada progresso feito durante o projeto.
+
+
+Fonte: http://www.devmedia.com.br/entendendo-o-scrum/24583
