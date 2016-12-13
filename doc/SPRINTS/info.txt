@@ -1,0 +1,34 @@
+O que é?
+
+A julgar pela duração de um sprint (entre 7e 30 dias) o nome sprint(corrida) é bem apropriado, a grosso modo um sprint 
+é o desenvolvimento de um incremento de um software a ser entregue em determinado prazo, mas esse processo envolve algumas 
+nuances a mais que veremos a seguir.
+
+--- Daily Scrum ---
+É uma reunião diária realizada a cada dia de um sprint, está reunião tem um conjunto de regras bem definido:
+
+  - A reunião começa precisamente no horário marcado.
+  - Todos são bem-vindos, mas apenas "poucos" podem falar.
+  - O encontro tem duração determinada (Time-Box) e dura 15 minutos.
+  - A reunião deve acontecer no mesmo local e mesma hora todos os dias
+  - Durante a reunião, cada membro da equipe responde a três perguntas:
+    - O que você tem feito desde ontem?
+    - O que você está planejando fazer hoje?
+    - Você tem algum problema impedindo você de realizar seu objetivo?
+Uma das vantagens das reuniões curtas é que evitam o cansaço causado por reuniões delongadas e que muitas vezes acabam 
+sendo pouco produtivas, também é importante destacar que desta forma também se garante que todos os membros da equipe estarão 
+a par de cada progresso feito durante o projeto.
+Este gera um documento com o prefixo DS.
+
+--- Reunião de Revisão da Sprint (Sprint Review) ---
+Esta reunião tem dois objetivos principais: rever o trabalho concluído e o não concluído e apresentar uma demo ao cliente. 
+Dessa forma a cada sprint o cliente poderá ver uma parte do produto funcionando e participar do processo fazendo sugestões de melhorias.
+Este gera um documento com o prefixo SRW.
+
+--- Retrospectiva da Sprint (Sprint Retrospective) ---
+Está reunião tem o objetivo de rever os erros e acertos no sprint realizado. Está é uma das partes mais importantes do 
+processo, já que nela é possível aprender com os erros e tentar aprimorar o produto, com isso é possível obter o que se procura 
+não só quando se está desenvolvendo software, mas em qualquer outro produto: a melhoria continua.
+Este gera um documento com o prefixo SRE.
+
+Fonte: http://www.devmedia.com.br/entendendo-o-scrum/24583
