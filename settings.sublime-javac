@@ -1,0 +1,11 @@
+{
+    "project_name"      : "Arietama",
+    "output_dir"  : "build",
+    "sources_dir" : "src",
+    "resources"   : [],
+    "libs"        : [],
+    "encoding"    : "utf-8",
+
+    "entry_file"        : "pArietama/Arietama.java",
+    "entry_point"       : "pArietama.Arietama"
+}

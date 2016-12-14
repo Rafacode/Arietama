@@ -1,0 +1,355 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"prin",
+				"println()\tfunc"
+			],
+			[
+				"ou",
+				"out\tfunc"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/rafael/Projects/Arietama/src/pArietama/Arietama.java",
+			"settings":
+			{
+				"buffer_size": 493,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/rafael/Projects/Arietama/src/cnndb/jfConfServ.java",
+			"settings":
+			{
+				"buffer_size": 9208,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/rafael/Projects/Arietama/src/cnndb/CMDB.java",
+			"settings":
+			{
+				"buffer_size": 2983,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "javac",
+		"selected_items":
+		[
+			[
+				"javac",
+				"JavaC: Generate Jar Package For Project"
+			],
+			[
+				"java",
+				"Javatar: Create new..."
+			],
+			[
+				"",
+				"JavaC: Clear Project"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"javac ",
+				"JavaC: Compile&Run Project"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/rafael/Projects/Arietama",
+		"/home/rafael/Projects/Arietama/src",
+		"/home/rafael/Projects/Arietama/src/cnndb",
+		"/home/rafael/Projects/Arietama/src/pArietama"
+	],
+	"file_history":
+	[
+		"/home/rafael/Projects/CMedicinae/src/cmedicinae/CMedicinae.java",
+		"/home/rafael/Projects/Arietama/src/cnndb/cnndb.java",
+		"/home/rafael/Projects/Arietama/src/gerext/cManipulador.java",
+		"/home/rafael/Projects/CMedicinae/src/cnncmdb/CMDB.java",
+		"/home/rafael/Projects/Arietama/src/pArietama/Arietama.java",
+		"/home/rafael/Projects/Arietama/settings.sublime-javac",
+		"/home/rafael/Projects/Arietama/Arietama.java",
+		"/home/rafael/Projects/Arietama/src/pkgcnndb/jfConfServ.java",
+		"/home/rafael/Projects/Arietama/src/pkgmain/cStart.java",
+		"/home/rafael/Projects/Arietama/src/pkgcnndb/CMDB.java",
+		"/home/rafael/.config/sublime-text-3/Packages/SublimeJavaCompiler/SublimeJavaCompiler.sublime-settings",
+		"/home/rafael/.config/sublime-text-3/Packages/User/SublimeJavaCompiler.sublime-settings",
+		"/home/rafael/Projects/java/RafaelGomides/Teste_Git.java",
+		"/home/rafael/Projects/Arietama/src/pkgmain/cPessoa.java",
+		"/home/rafael/Projects/Arietama/src/cPessoa.java",
+		"/home/rafael/Projects/Arietama/src/teste.java"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/rafael/Projects/Arietama/src/pArietama/Arietama.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 493,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								111,
+								111
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/rafael/Projects/Arietama/src/cnndb/jfConfServ.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9208,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								284,
+								284
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 900.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/rafael/Projects/Arietama/src/cnndb/CMDB.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2983,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								754,
+								754
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 450.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.javac_wnd":
+	{
+		"height": 178.0
+	},
+	"pinned_build_system": "Packages/Java/JavaC.sublime-build",
+	"project": "Arietama.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
