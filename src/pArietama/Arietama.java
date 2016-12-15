@@ -11,10 +11,11 @@ public class Arietama {
     
     public static void main(String[] args) {
 
-    	ini();
+    	cnnDatabase(); // Establish connection with DB
+    	loadModules(); // Load and get the modules
     }
 
-    public static void ini() {
+    public static void cnnDatabase() {
 
         CMDB cnn = new CMDB();
         cManipulador man = new cManipulador();
@@ -24,6 +25,11 @@ public class Arietama {
         if (cnn.CMDB(1, man.getUrl(), man.getLogin(), man.getPassword()) == 1) {
             System.out.println("Deu certo");
         }
+    }
+
+    public static void loadModules() {
+
+
     }
 
 }

@@ -136,7 +136,7 @@ public class jfConfServ extends javax.swing.JFrame {
 
         if (cnn.CMDB(0, "jdbc:mysql://" + jtxtIPServ.getText() + "/cmdb", jtxtUsuario.getText(), jptxtSenha.getText()) == 1) {
             
-            man.SalvarInfo("jdbc:mysql://" + jtxtIPServ.getText() + "/cmdb", jtxtUsuario.getText(), jptxtSenha.getText());
+            man.SalvarInfoDB("jdbc:mysql://" + jtxtIPServ.getText() + "/cmdb", jtxtUsuario.getText(), jptxtSenha.getText());
             suc.Sucesso("Reinicie o Sistema!");
             dispose();
         }

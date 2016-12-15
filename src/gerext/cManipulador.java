@@ -50,7 +50,7 @@ public final class cManipulador {
 
     }
 
-    public void SalvarInfo(String url, String login, String senha) {
+    public void SalvarInfoDB(String url, String login, String senha) {
 
         prop.setProperty("prop.server.url", url);
         prop.setProperty("prop.server.login", login);
